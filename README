@@ -1,0 +1,16 @@
+= Automatic conjugation tools for french verbs =
+
+== Features ==
+• Automatic conjugation from the base form of a french verb
+• Automatic reconjugation of a conjugated french verb to the base form
+• Recognizing "c" and "g"
+• Gets unregular verbs from an exception database
+
+== Instructions ==
+• You need a working Python  >= 3 with sqLite 3 extension
+• To get all the conjugations from a french verb, start the script programs/getConjugations.py and type in the base form
+• To get the base form of a conjugated french verb, start the script programs/getBaseForm.py and type in the conjugated verb
+
+== License ==
+• For all files in here the same:
+• Copyright 2011 Leonard Techel, licensed under GPL v3
